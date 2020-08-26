@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #b8d828;
+    color: #f4f5ef;
 }
 
 .header div {
@@ -97,18 +97,6 @@ p {
 }
 
 .benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
