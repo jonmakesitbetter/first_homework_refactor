@@ -52,8 +52,10 @@ p {
 }
 
 .hero {
-    float: left;
-    max-height: 800px;
+    background-image: url(./assets/images/digital-marketing-meeting.jpg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 }
 

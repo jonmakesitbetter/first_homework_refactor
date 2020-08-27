@@ -1,4 +1,4 @@
-# first_homework_refactor
+# Website Refactoring Project
 
 ## Project Purpose
 
@@ -16,6 +16,9 @@ View the website and click on the links in the header, which should take you to 
 ## Credits
 
 All credit for this website's original source code and content belong to their respective owners. 
+
+*resources*
+https://www.w3schools.com
 
 ## License
 
